@@ -14,8 +14,17 @@ My expertise lies in identifying business problems and developing AI-based solut
 
 <a href="https://www.linkedin.com/in/danielpuenteviejo/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Daniel Puente Viejo's LinkedIn Profile" height="30" width="30">
- </a>
- 
+</a>
+<a href="https://twitter.com/DanielPViejo">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Daniel Puente Viejo's Twitter Profile" height="30" width="30">
+</a>
+<a href="https://www.instagram.com/daaani.pv/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Daniel Puente Viejo's Instagram Profile" height="30" width="30">
+</a>
+<a href="https://www.kaggle.com/danielpuente">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Daniel Puente Viejo's Instagram Profile" height="30" width="30">
+</a>
+  
 ## Language and Tools 👨‍💻
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPuentee&langs_count=10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="DanielPuentee :: Top Langs" />
