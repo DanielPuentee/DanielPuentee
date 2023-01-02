@@ -11,6 +11,6 @@ Updates:
 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
        
 Connect with me 🤝:      
-<img scr = https://user-images.githubusercontent.com/64250734/210212219-9aa73498-cd3e-435d-a3b2-afbfd2a1cb1f.png width = "100" >
+<img scr = "https://user-images.githubusercontent.com/64250734/210212219-9aa73498-cd3e-435d-a3b2-afbfd2a1cb1f.png" width = "100" >
 
 
