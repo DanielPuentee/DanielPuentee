@@ -6,7 +6,7 @@ My expertise lies in identifying business problems and developing AI-based solut
       
 ## Updates:    
       
-🔭 I’m currently working as a Data Engineer at [NTT Data](https://es.nttdata.com/)    
+🔭 I’m currently working as a Data Engineer at **[NTT Data](https://es.nttdata.com/)**    
 🌱 I’m currently learning **NLP and GNN**.    
 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
        
