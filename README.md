@@ -10,7 +10,8 @@ Updates:
 🌱 I’m currently learning **NLP and GNN**.    
 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
        
-Connect with me 🤝:
-![https://user-images.githubusercontent.com/64250734/210212219-9aa73498-cd3e-435d-a3b2-afbfd2a1cb1f.png](https://www.linkedin.com/in/danielpuenteviejo/)
+Connect with me 🤝:      
+![LINKEDIN!](https://user-images.githubusercontent.com/64250734/210212219-9aa73498-cd3e-435d-a3b2-afbfd2a1cb1f.png)
+![LINKEDIN!](https://www.linkedin.com/in/danielpuenteviejo/)
 
 
