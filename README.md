@@ -34,6 +34,14 @@ My expertise lies in identifying business problems and developing AI-based solut
    
 ## Other stats 📊
 <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPuentee&langs_count=10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="DanielPuentee :: Top Langs" />
       <img src="https://github-readme-stats.vercel.app/api?username=DanielPuentee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="DanielPuentee :: Profile Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPuentee&theme=dark&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=15151" alt="danielpuentee" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPuentee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=15151" alt="danielpuentee" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPuentee&langs_count=10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="DanielPuentee :: Top Langs" />
+ </p>
+    
+    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielpuentee&show_icons=true&locale=en&layout=compact" alt="danielpuentee" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielpuentee&show_icons=true&locale=en" alt="danielpuentee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpuentee&" alt="danielpuentee" /></p>
