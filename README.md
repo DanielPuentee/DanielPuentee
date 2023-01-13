@@ -34,8 +34,8 @@ My expertise lies in identifying business problems and developing AI-based solut
    
 ## Other stats 📊
 <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=DanielPuentee&show_icons=true&locale=en" alt="danielpuentee"/>
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=DanielPuentee&show_icons=true&locale=en" alt="danielpuentee"/> -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielpuentee&" alt="danielpuentee" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielPuentee&show_icons=true&locale=en&layout=compact" alt="danielpuentee" />
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielPuentee&show_icons=true&locale=en&layout=compact" alt="danielpuentee" /> -->
  </p>
     
