@@ -10,9 +10,8 @@ My expertise lies in identifying business problems and developing AI-based solut
  
 ## Updates ⚙️:    
        
-🔭 I’m currently working as a Data Engineer at **[NTT Data](https://es.nttdata.com/)**     
-🌱 I’m currently learning **NLP and GNN**.     
-👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**     
+🔭 I’m currently working as Gen AI Engineer/Scientist at **[NTT Data](https://es.nttdata.com/)**     
+👯 I’m like to collaborate on **Data Science, Machine Learning and Deep Learning**     
 
 ## Connect with me 🤝:     
 
@@ -21,9 +20,6 @@ My expertise lies in identifying business problems and developing AI-based solut
 </a>
 <a href="https://twitter.com/DanielPViejo">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Daniel Puente Viejo's Twitter Profile" height="35" width="35">
-</a>
-<a href="https://www.instagram.com/daaani.pv/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Daniel Puente Viejo's Instagram Profile" height="35" width="35">
 </a>
 <a href="https://www.kaggle.com/danielpuente">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Daniel Puente Viejo's Instagram Profile" height="35" width="35">
