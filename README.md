@@ -10,7 +10,7 @@ My expertise lies in identifying business problems and developing AI-based solut
  
 ## Updates ⚙️:    
        
-🔭 Gen AI Engineer - Data Scientist**     
+🔭 **Gen AI Engineer - Data Scientist**     
 👯 I’m like to collaborate on **Data Science, Machine Learning and Deep Learning**     
 
 ## Connect with me 🤝:     
