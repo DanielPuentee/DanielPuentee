@@ -10,7 +10,7 @@ My expertise lies in identifying business problems and developing AI-based solut
  
 ## Updates ⚙️:    
        
-🔭 I’m currently working as Gen AI Engineer/Scientist at **[NTT Data](https://es.nttdata.com/)**     
+🔭 Gen AI Engineer - Data Scientist**     
 👯 I’m like to collaborate on **Data Science, Machine Learning and Deep Learning**     
 
 ## Connect with me 🤝:     
